@@ -1,0 +1,32 @@
+.background-container {
+    background-color: #93c5fd;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  .capital-container {
+    background-color: #f8fafc;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .select-input {
+    background-color: transparent;
+    border: 1px #cbd2d9 solid;
+    width: 100px;
+    height: 36px;
+    margin: 10px;
+    color: #000000;
+  }
+  .capitals-heading {
+    color: #323f4b;
+  }
+  .country-result {
+    color: #323f4b;
+  }
+  .label {
+    color: #1e293b;
+  }
+  
